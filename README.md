@@ -3,7 +3,7 @@ This script is designed to enhance the security of a MacBook Air by implementing
 
 # Purpose
 The primary goal of this script is to harden the security of a MacBook Air by automating the implementation of several security measures. These measures aim to safeguard the system, protect sensitive data, and mitigate potential risks.
-
+..
 # Features
 Implemented Security Measures
 Full Disk Encryption (FileVault): Enables FileVault to encrypt the entire disk, protecting data in case of theft or unauthorized access.
